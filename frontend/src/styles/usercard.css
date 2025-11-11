@@ -1,0 +1,64 @@
+/* ========================================
+   📁 FILE: src/styles/UserCard.css
+   Description: Styles for UserCard component
+   ======================================== */
+
+.usercard-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+  background: linear-gradient(135deg, #e0eafc, #cfdef3);
+  font-family: 'Poppins', sans-serif;
+}
+
+.usercard {
+  background: white;
+  border-radius: 20px;
+  padding: 40px 50px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  transition: all 0.4s ease;
+  text-align: center;
+  max-width: 400px;
+  width: 90%;
+}
+
+.usercard:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+}
+
+.usercard-title {
+  font-size: 1.8rem;
+  color: #333;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.user-info {
+  text-align: left;
+  background: #f8faff;
+  border-radius: 12px;
+  padding: 20px;
+  border: 1px solid #e2e6ea;
+}
+
+.user-info p {
+  font-size: 1rem;
+  color: #444;
+  margin: 10px 0;
+  line-height: 1.4;
+}
+
+.user-info strong {
+  color: #2b4eff;
+}
+
+.empty {
+  background: #fff0f0;
+  border: 1px solid #ffbcbc;
+}
+
+.empty h2 {
+  color: #e63946;
+}
