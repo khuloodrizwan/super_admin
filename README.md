@@ -23,20 +23,20 @@ Technologies Used
 
 **Frontend**
 
-React - JavaScript library for building user interfaces
-Vite - Next-generation frontend build tool
-Axios - Promise-based HTTP client for API requests
-React Router - Declarative routing for React applications
+React - JavaScript library for building user interfaces \n
+Vite - Next-generation frontend build tool \n
+Axios - Promise-based HTTP client for API requests \n
+React Router - Declarative routing for React applications \n
 
 **Backend**
 
-Node.js - JavaScript runtime environment
-Express.js - Web application framework
-MongoDB - NoSQL database for user data storage
-Mongoose - MongoDB object modeling tool
-jsonwebtoken (JWT) - Token-based authentication
-cors - Cross-Origin Resource Sharing middleware
-dotenv - Environment variable management
+Node.js - JavaScript runtime environment \n
+Express.js - Web application framework \n
+MongoDB - NoSQL database for user data storage \n
+Mongoose - MongoDB object modeling tool \n
+jsonwebtoken (JWT) - Token-based authentication \n
+cors - Cross-Origin Resource Sharing middleware \n
+dotenv - Environment variable management \n
 
 ## 📁 Project Structure
 
