@@ -19,8 +19,24 @@ This project demonstrates a secure login/registration system where:
 
 ## 🛠️ Technologies Used
 
-**Frontend:** React, Vite, Axios, React Router, CSS3  
-**Backend:** Node.js, Express, MongoDB, Mongoose, JWT
+Technologies Used
+
+**Frontend**
+
+React - JavaScript library for building user interfaces
+Vite - Next-generation frontend build tool
+Axios - Promise-based HTTP client for API requests
+React Router - Declarative routing for React applications
+
+**Backend**
+
+Node.js - JavaScript runtime environment
+Express.js - Web application framework
+MongoDB - NoSQL database for user data storage
+Mongoose - MongoDB object modeling tool
+jsonwebtoken (JWT) - Token-based authentication
+cors - Cross-Origin Resource Sharing middleware
+dotenv - Environment variable management
 
 ## 📁 Project Structure
 
